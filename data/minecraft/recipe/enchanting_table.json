@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["#"],
+  "key": {"#": "minecraft:bedrock"},
+  "result": {"id": "minecraft:enchanting_table", "count": 1}
+}

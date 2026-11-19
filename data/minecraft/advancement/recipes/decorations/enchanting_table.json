@@ -1,0 +1,5 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {"never": {"trigger": "minecraft:impossible"}},
+  "requirements": [["never"]]
+}

@@ -1,0 +1,4 @@
+{
+  "criteria": {"place": {"trigger": "minecraft:placed_block"}},
+  "rewards": {"function": "chiseledinfusion:table/place"}
+}

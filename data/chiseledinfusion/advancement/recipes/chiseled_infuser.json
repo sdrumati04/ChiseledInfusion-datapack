@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_carpet": {"trigger": "minecraft:inventory_changed",
+                   "conditions": {"items": [{"items": "minecraft:red_carpet"}]}},
+    "has_obsidian": {"trigger": "minecraft:inventory_changed",
+                     "conditions": {"items": [{"items": "minecraft:obsidian"}]}}
+  },
+  "requirements": [["has_carpet", "has_obsidian"]],
+  "rewards": {"recipes": ["chiseledinfusion:chiseled_infuser"]}
+}
